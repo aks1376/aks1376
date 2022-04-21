@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ali Karimi
+- 👀 I’m interested in Web Developing and Linux
+- 🌱 I’m currently learning Linux, Docker, Infrastructure, backend Development in Microservice architecture 
+- 💞️ I’m looking to collaborate on active team
+- 📫 How to reach me via Email or Telegram
